@@ -1,0 +1,18 @@
+=== invoice plugin ===
+Contributors: Dinidu, kasun 
+Donate link: 
+Tags: comments, spam
+Requires at least: 2.0.2
+Tested up to: 2.1
+Stable tag: 
+
+this wordpress plugin make it easy to view your curdbee invoices from your own blog.
+
+== Plugin Description ==
+
+
+this plugin was created to use in wordpress. it is written in php language and this plugin allow you to see your curdbee invoices, you must provide 
+the curdbee id and the token that is given to you by curdbee. here what this plugin does is using your curdbee id and your token returns your
+possible invoice data sets and you can check out what you want from the list of the invoices. 
+
+
